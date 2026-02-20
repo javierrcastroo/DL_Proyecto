@@ -1,0 +1,9 @@
+transformers>=4.44.0
+huggingface_hub>=0.24.0
+torch>=2.2.0
+ebooklib>=0.18
+beautifulsoup4>=4.12.3
+sentence-transformers>=3.0.1
+faiss-cpu>=1.8.0
+pillow>=10.4.0
+jupyter>=1.0.0
